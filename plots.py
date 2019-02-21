@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# Plotted all features on a single graph before normalization
 
 import pandas as pd
 import numpy as np
